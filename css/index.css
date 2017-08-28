@@ -221,7 +221,7 @@ header .phb-list #profile img:nth-child(1) {
   margin: 0 auto;
   width: 1.5rem;
   border-radius: 64px;
-  border: 2px solid #c00057;
+  border: 0.02rem solid #BF00FF;
   display: inline-block;
 }
 header .phb-list #profile img:nth-child(2) {
