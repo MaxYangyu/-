@@ -105,6 +105,7 @@ header .phb-list {
   border-radius: 12px;
 }
 header .phb-list .nav-tabs li:nth-child(1) a {
+  text-align: center;
   padding: 0;
   background-color: #5021A6;
   border: 0.03rem solid #c000ff;
@@ -123,7 +124,7 @@ header .phb-list .nav-tabs li:nth-child(2) a {
   width: 1.84rem;
   height: 0.52rem;
   border: 3px solid #c000ff;
-  line-height: 0.45rem;
+  line-height: 0.4rem;
   padding: 0;
 }
 header .phb-list .nav-tabs li a {
@@ -131,7 +132,6 @@ header .phb-list .nav-tabs li a {
 }
 header .phb-list .nav-tabs li.active a:hover {
   margin: 0;
-  padding: 0;
   color: #fff;
   background-color: #c000ff;
   border: 0.03rem solid #c000ff;
@@ -139,7 +139,6 @@ header .phb-list .nav-tabs li.active a:hover {
   width: 1.84rem;
   height: 0.52rem;
   line-height: 0.45rem;
-  padding-left: 0.2rem;
 }
 header .phb-list .tab-content {
   padding-top: 0.45rem;
