@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e2e56f7-f311-4144-a59a-8b3d2c5a4a76" name="默认" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.less" afterPath="$PROJECT_DIR$/css/index.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -23,8 +24,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="252">
-                  <caret line="174" column="18" lean-forward="true" selection-start-line="174" selection-start-column="18" selection-end-line="174" selection-end-column="18" />
+                <state relative-caret-position="237">
+                  <caret line="212" column="31" lean-forward="false" selection-start-line="212" selection-start-column="31" selection-end-line="212" selection-end-column="31" />
                   <folding>
                     <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -58,8 +59,8 @@
           <file leaf-file-name="index.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/index.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="99">
-                  <caret line="116" column="24" lean-forward="true" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
+                <state relative-caret-position="-223">
+                  <caret line="204" column="14" lean-forward="true" selection-start-line="204" selection-start-column="14" selection-end-line="204" selection-end-column="14" />
                   <folding />
                 </state>
               </provider>
@@ -75,8 +76,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/index.less" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/index.less" />
       </list>
     </option>
   </component>
@@ -86,9 +87,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="599" />
-    <option name="y" value="105" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="107" />
+    <option name="y" value="71" />
     <option name="width" value="1111" />
     <option name="height" value="860" />
   </component>
@@ -158,15 +159,15 @@
       <option name="presentableId" value="Default" />
       <updated>1503711549608</updated>
       <workItem from="1503711551058" duration="19903000" />
-      <workItem from="1503883578782" duration="13388000" />
+      <workItem from="1503883578782" duration="14798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33291000" />
+    <option name="totallyTimeSpent" value="34701000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="599" y="105" width="1111" height="860" extended-state="0" />
+    <frame x="107" y="71" width="1111" height="860" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18538813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -250,18 +251,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="116" column="24" lean-forward="true" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="174" column="18" lean-forward="true" selection-start-line="174" selection-start-column="18" selection-end-line="174" selection-end-column="18" />
+        <state relative-caret-position="237">
+          <caret line="212" column="31" lean-forward="false" selection-start-line="212" selection-start-column="31" selection-end-line="212" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -284,6 +277,14 @@
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#6;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#7;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-223">
+          <caret line="204" column="14" lean-forward="true" selection-start-line="204" selection-start-column="14" selection-end-line="204" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
