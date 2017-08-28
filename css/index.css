@@ -176,14 +176,14 @@ header .phb-list .box span:nth-child(2) img:nth-child(2) {
 }
 header .phb-list .box span:nth-child(3) {
   position: absolute;
-  top: .5rem;
+  top: .55rem;
   left: 2.35rem;
   font-size: .24rem;
   color: #fff;
 }
 header .phb-list .box span:nth-child(4) {
   position: absolute;
-  top: .5rem;
+  top: .55rem;
   left: 4.85rem;
   font-size: .24rem;
   color: #fff;
@@ -254,6 +254,7 @@ header .phb-list .more {
   color: #fff;
   background-color: #7327c9;
   border-radius: 0  0 0.12rem 0.12rem;
+  margin-bottom: 0;
 }
 header .info {
   margin: 0 auto;
